@@ -23,7 +23,7 @@
       "id": 3,
       "title": "Drug Prediction ML-Model",
       "description": "To predict drug types and cannabis usage from patient data and psychological traits. Built classification models with real-world datasets.",
-      "image": "/images/drug_prediction.jfif",
+      "image": "/assets/drug_prediction.jfif",
       "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "matplotlib", "Seaborn"],
       "github": "https://github.com/Vikasprajapat1602/Drug-Prediction-ML-Model",
       "live": "https://drug-prediction-ml-atghentsey5jezhzlhik8j.streamlit.app/ "
@@ -33,7 +33,7 @@
       "id": 4,
       "title": "INTERN PORTAL",
       "description": "Enables users to register as interns or volunteers and provides a secure admin panel to manage these applications. With API-integrated frontend and backend.",
-      "image": "/images/intern_portal.png",
+      "image": "/assets/intern_portal.png",
       "technologies": ["React (with vite)", "Tailwind CSS", "Django", "SQLite3 (for development)"],
       "github": "https://github.com/Vikasprajapat1602/INTERN-WEBAPP",
       "live"  : "#" 
@@ -43,7 +43,7 @@
       "id": 5,
       "title": "Movie Recommendation System",
       "description": "To suggest movies based on user preferences and viewing history. Implemented collaborative/contentbased filtering techniques, performed data preprocessing",
-      "image": "/images/movie.jfif",
+      "image": "/assets/movie.jfif",
       "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "matplotlib", "Seaborn"],
       "github": "https://github.com/Vikasprajapat1602/movie-recommender-system",
       "live":"https://movie-recommender-system-2em8gc8nq6aq6qwpshb97s.streamlit.app/"
