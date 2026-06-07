@@ -1,0 +1,74 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "category": "Programming Languages",
+      "items": [
+        { "name": "Python"   },
+        { "name": "JavaScript"  },
+        { "name": "C++"  }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Web Development",
+      "items": [
+        { "name": "HTML5"},
+        { "name": "CSS3" },
+        { "name": "JavaScript" },
+        { "name": "React" },
+        { "name": "Tailwind CSS" },
+        { "name": "Node.js"},
+        { "name": "Django"},
+        { "name": "REST API"},
+        { "name": "Bootstrap"}
+
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Databases",
+      "items": [
+        { "name": "MongoDB" },
+        { "name": "PostgreSQL"},
+        { "name": "MySQL" }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "AI & Machine Learning",
+      "items": [
+        { "name": "Predictive Modeling"},
+        { "name": "Feature Engineering" },
+        { "name": "Data Preprocessing" },
+        { "name": "Model Development"},
+        { "name": "Model Evaluation" },
+        { "name": "Neural Networks" },
+        { "name": "TensorFlow" },
+        { "name": "scikit-learn" }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Tools & Technologies",
+      "items": [
+        { "name": "Git & GitHub" },
+        { "name": "Jupyter Notebook"},
+        { "name": "Figma"},
+        { "name": "MS Excel"},
+        { "name": "MS Word"},
+        { "name": "MS PowerPoint "},
+        { "name": "Google Sheets"}
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Core-Concepts",
+      "items": [
+        { "name": "Data Structures" },
+        { "name": "Object-Oriented Programming (OOPs)" },
+        { "name": "Database Management Systems (DBMS)" }
+      ]
+    }
+  ]
+}

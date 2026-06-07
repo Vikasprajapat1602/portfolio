@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Machine Health Monitoring System",
+      "description": "This project monitors machine health in real time and predict possible failures early, helping reduce breakdowns and downtime. Features include message history, user authentication, and real-time notifications.",
+      "image": "src\\assets\\machine_project.png",
+      "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "matplotlib", "Seaborn"],
+      "github": "https://github.com/Vikasprajapat1602/Smart-Factory-AI-Dashboard",
+      "live": "https://smart-factory-predictive-maintenance-ai.streamlit.app/"
+    },
+    {
+      "id": 2,
+      "title": "Travel Booking Application",
+      "description": "Users can book tickets, manage their bookings, update their profile, and view popular travel destinations.",
+      "image": "src\\assets\\travel.jfif",
+      "technologies": ["Python", "Django", "TailwindCSS"],
+      "github": "https://github.com/Vikasprajapat1602/Travel-Booking-Application",
+      "live": "https://vikas1602.pythonanywhere.com/"
+      
+    },
+    {
+      "id": 3,
+      "title": "Drug Prediction ML-Model",
+      "description": "To predict drug types and cannabis usage from patient data and psychological traits. Built classification models with real-world datasets.",
+      "image": "src\\assets\\images.jfif",
+      "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "matplotlib", "Seaborn"],
+      "github": "https://github.com/Vikasprajapat1602/Drug-Prediction-ML-Model",
+      "live": "https://drug-prediction-ml-atghentsey5jezhzlhik8j.streamlit.app/ "
+      
+    },
+    {
+      "id": 4,
+      "title": "INTERN PORTAL",
+      "description": "Enables users to register as interns or volunteers and provides a secure admin panel to manage these applications. With API-integrated frontend and backend.",
+      "image": "src\\assets\\Dashboard.png",
+      "technologies": ["React (with vite)", "Tailwind CSS", "Django", "SQLite3 (for development)"],
+      "github": "https://github.com/Vikasprajapat1602/INTERN-WEBAPP",
+      "live"  : "#" 
+      
+    },
+    {
+      "id": 5,
+      "title": "Movie Recommendation System",
+      "description": "To suggest movies based on user preferences and viewing history. Implemented collaborative/contentbased filtering techniques, performed data preprocessing",
+      "image": "src\\assets\\movie.jfif",
+      "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "matplotlib", "Seaborn"],
+      "github": "https://github.com/Vikasprajapat1602/movie-recommender-system",
+      "live":"https://movie-recommender-system-2em8gc8nq6aq6qwpshb97s.streamlit.app/"
+      
+    }
+  ]
+}

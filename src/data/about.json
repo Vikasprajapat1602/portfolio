@@ -1,0 +1,34 @@
+{
+  "about": {
+    "name": "Vikas Prajapat",
+    "role": "AI/ML Enthusiast • Full Stack Developer • CS Professional",
+    "tagline": "Building exceptional digital experiences with modern technologies",
+    "bio": "Results-driven Full Stack Developer and AI/ML Enthusiast with hands-on experience in scalable web application development using React.js, JavaScript, Tailwind CSS, Python, and modern frameworks. Skilled in frontend architecture, API integration, responsive UI development, database handling, and performance optimization, with strong knowledge of Machine Learning workflows including data preprocessing, predictive modeling, neural networks, and deep learning concepts. Experienced in creating scalable and user-centric software solutions with modern development practices.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science",
+        "institution": "Jagannath University, Jaipur",
+        "year": "2023-2027",
+        "details": ""
+      },
+      {
+        "degree": "Senior Secondary",
+        "institution": "Govt Senior Secondary School, Chaksu",
+        "year": "2023",
+        "details": "87.80% (Science Stream)"
+      },
+      {
+        "degree": "Secondary School",
+        "institution": "Govt Senior Secondary School, Barodiya",
+        "year": "2021",
+        "details": "96.00%"
+      }
+    ],
+    "experience": [
+      
+    ],
+
+    "objectives": "I am an aspiring Computer Science professional seeking opportunities in Web Development, Database Design, and AI/ML, where I can contribute to impactful projects while expanding my technical expertise and professional experience."
+  }
+}
